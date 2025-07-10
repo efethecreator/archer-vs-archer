@@ -1,6 +1,6 @@
 # Archer vs Archer
 
-Bu küçük terminal oyunu can sıkıntısı ve öğrendiklerimi tekrar etme amaçlı yapılmıştır, iki okçunun birbirleriyle karşılıklı olarak ok attığı ve sağlık/ok durumlarının takip edildiği basit bir Python simülasyonudur. Testler otomatik olarak çalıştırılır ve sonuçlar terminalde görüntülenir.
+Bu küçük terminal oyunu can sıkıntısı ve tekrar etme amaçlı yapılmıştır, iki okçunun birbirleriyle karşılıklı olarak ok attığı ve sağlık/ok durumlarının takip edildiği basit bir Python simülasyonudur. Testler otomatik olarak çalıştırılır ve sonuçlar terminalde görüntülenir.
 
 ## Dosya Yapısı
 
